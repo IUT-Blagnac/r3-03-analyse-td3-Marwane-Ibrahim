@@ -40,7 +40,7 @@ public class AppTest
      */
     public void testHelloParameter()
     {
-        assertEquals("Hello Marwane!", App.hello("Hello Marwane!"));
+        assertEquals("Hello Marwane on ajoute pour le nouveau merge", App.hello("Hello Marwane on ajoute pour le nouveau merge"));
     }
 
 }
